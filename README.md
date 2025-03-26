@@ -68,6 +68,3 @@ public static void AccederRecurso(string nombre)
 | ❌ No mezcles `Semaphore` con `SemaphoreSlim` en el mismo contexto compartido | Tienen propósitos distintos |
 
 ---
-
-✅ Este módulo cubre `Semaphore`, ideal para coordinación avanzada, incluso entre procesos.  
-🧵 Para sincronización dentro de tu app moderna, preferí `SemaphoreSlim` (Módulo 4).
